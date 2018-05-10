@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BounceEntity
+  - DestroyEntity
+  - BounceAndDestroyEntity
+  - Hero
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Hero
+  - Enemy
+  - Star
+  - Hurt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2106200761
+    locked: 0
+  - name: Human
+    uniqueID: 2045186695
+    locked: 0
+  - name: Foreground
+    uniqueID: 215893885
+    locked: 0
+  - name: Scene
+    uniqueID: 173820535
+    locked: 0
+  - name: UI
+    uniqueID: 4011280517
+    locked: 0
